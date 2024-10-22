@@ -10,6 +10,6 @@
 
 🌱 Looking to collaborate on: C++, Python, and beginner-friendly open-source contributions.
 
-📫 How to reach me: ziningwong050506@gmail.com
+📫 How to reach me: ziningwong050506@gmail.com//wongzi.ning@graduate.utm.my
 
 ⚡ Fun fact: I enjoy discovering new music and always have a playlist going while I code!
