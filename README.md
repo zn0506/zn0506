@@ -8,7 +8,7 @@
 
 👭 I'm excited to collaborate on projects that challenge my coding skills and push me to learn more.
 
-🌱 Looking to collaborate on: C++, Python, and beginner-friendly open-source contributions.
+🌱 Looking to learn: C++, Python, HTML, Java.
 
 📫 How to reach me: ziningwong050506@gmail.com//wongzi.ning@graduate.utm.my
 
