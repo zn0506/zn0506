@@ -30,7 +30,7 @@ I'm 19 years old and come from Sarawak. I'm a passionate self-taught developer, 
 📚 SECJ1513 - [Programming Technique 1](https://github.com/zn0506/SECJ1013-01) <br>
 📚 SECP1513 - [Technology and Information System](https://github.com/zn0506/SECP1513-01) <br>
 📚 ULRS1032 - [Integrity and Anti-corruption](https://github.com/zn0506/ULRS1032) <br>
-📚 SEBB4173 - [Celullar and Molecular Biology for Bioinformatics](https://github.com/zn0506/ULRS1032) <br>
+📚 SEBB4173 - [Celullar and Molecular Biology for Bioinformatics](https://github.com/zn0506/SEBB4173-01) <br>
 
 ### E-Portfolio
 
