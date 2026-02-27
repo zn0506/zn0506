@@ -13,20 +13,29 @@ I'm from Sarawak and I am a motivated second-year Bachelor of Computer Science (
 ### 🎓 My Education Journey
 
 🌱 Where It All Began:
+
 📍 Primary School: SJK(C) Su Lai – The foundation of my learning journey!
 
+
+
 📚 Building Knowledge:
+
 📍 Secondary School: SMK St. Elizabeth – Exploring different subjects and developing my passion for tech.
 
+
 🚀 Stepping Into the Future:
-📍 Foundation: Universiti Teknologi Malaysia (2023–2024) – Foundation in Physical Science[cite: 16, 17, 18]. A year of discovery, learning, and preparing for the next big step!
+
+📍 Foundation: Universiti Teknologi Malaysia (2023–2024) – Foundation in Physical Science. A year of discovery, learning, and preparing for the next big step!
+
 
 💻 Now, the Real Adventure Begins:
+
 📍 Degree: Universiti Teknologi Malaysia (2024–Present) – Second-year student pursuing a Bachelor of Computer Science (Bioinformatics). Excited to explore the intersection of computing and biology!
+
 
 ### 🌟 Leadership & Co-Curricular Experience
 
-* [cite_start]**Faculty of Computing Majlis Perwakilan Pelajar (MPP), UTM (2025/2026)**
+* **Faculty of Computing Majlis Perwakilan Pelajar (MPP), UTM (2025/2026)**
   * Strategic Communications Department Exco
 * **Chinese Orchestra UTM (2025/2026)**
   * Head of Logistics Department
@@ -38,7 +47,9 @@ I'm from Sarawak and I am a motivated second-year Bachelor of Computer Science (
 ### 🚀 Projects & Work
 
 📌 **VoxLab** – Currently working on an AI speech coach website to help users improve their speaking skills.
+
 📌 **Faculty Datathon** – Planning and organizing a Datathon event for the faculty to promote data science and problem-solving.
+
 📌 **EWA Workspace** – Contributed as a UI/UX Designer. 🔗 [GitHub Repo](https://github.com/zn0506/ewa-workspace.git)
 
 ### 💻 Skills & Tools
