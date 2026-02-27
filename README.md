@@ -1,66 +1,71 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is WONG ZI NING
+[cite_start]Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is WONG ZI NING [cite: 1]
 ====================================================================================================================================
 
-Beginner of Programming
+[cite_start]Motivated Computing Student & Aspiring Developer [cite: 10]
 -----------------------
 
-I'm 19 years old and come from Sarawak. I'm a passionate self-taught developer, currently learning C++ and exploring new programming languages. I enjoy problem-solving and building projects that improve my understanding of software development. I started my coding journey during my foundation studies at UTM, where I developed an interest in technology and problem-solving.
+[cite_start]I'm from Sarawak and I am a motivated second-year Bachelor of Computer Science (Bioinformatics) student at Universiti Teknologi Malaysia (UTM)[cite: 2, 3, 10, 14, 15]. [cite_start]I have a growing interest in software development, actively developing my skills in C++ programming, UI/UX design, web development, and networking[cite: 10, 11]. [cite_start]I enjoy problem-solving and am currently seeking opportunities to gain experience in frontend or backend development roles[cite: 12]. 
 
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [ziningwong050506@gmail.com](mailto:ziningwong050506@gmail.com)
-* 🧠  I'm learning C++, HTML
-* ⚡  I enjoy discovering new music and always have a playlist going while I code!
+* 🌍  I'm based in Malaysia
+* [cite_start]✉️  You can contact me at wongzi.ning@graduate.utm.my [cite: 5]
+* [cite_start]🧠  I'm learning and building with C++, basic SQL, and UI/UX tools like Figma and Rive [cite: 31, 32, 33]
+* ⚡  I enjoy discovering new music and always have a playlist going while I code!
 
 ### 🎓 My Education Journey
 
 🌱 Where It All Began:
-
 📍 Primary School: SJK(C) Su Lai – The foundation of my learning journey!
 
-
 📚 Building Knowledge:
-
 📍 Secondary School: SMK St. Elizabeth – Exploring different subjects and developing my passion for tech.
 
-
 🚀 Stepping Into the Future:
+[cite_start]📍 Foundation: Universiti Teknologi Malaysia (2023–2024) – Foundation in Physical Science[cite: 16, 17, 18]. A year of discovery, learning, and preparing for the next big step!
 
-📍 Foundation: Universiti Teknologi Malaysia (2023/2024) – A year of discovery, learning, and preparing for the next big step!
+💻 Now, the Real Adventure Begins:
+[cite_start]📍 Degree: Universiti Teknologi Malaysia (2024–Present) – Second-year student pursuing a Bachelor of Computer Science (Bioinformatics) [cite: 10, 13, 14, 15] 🧬💡. Excited to explore the intersection of computing and biology!
 
+### 🌟 Leadership & Co-Curricular Experience
 
-💻 Now, the Real Adventure Begins!
-
-📍 Degree: Universiti Teknologi Malaysia – First-year student pursuing a Bachelor of Computer Science (Bioinformatics) 🧬💡. Excited to explore the intersection of computing and biology to solve real-world problems!
-
-
-🔍 Always learning. Always evolving. The journey has just begun! 🚀
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
-
-
-### Socials
-
-📫 Let's Connect!
-<p align="left"> <a href="https://discord.com/users/ning556" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/zn0506" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/zn_0506" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/zining0506" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/zn_0506" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
-
-### YEAR 1 SEM 1
-
-📚 SECR1513 - [Digital Logic](https://github.com/zn0506/SECR1013-01) <br>
-📚 SECI1513 - [Discrete Structure](https://github.com/zn0506/SECI1013-01) <br>
-📚 SECJ1513 - [Programming Technique 1](https://github.com/zn0506/SECJ1013-01) <br>
-📚 SECP1513 - [Technology and Information System](https://github.com/zn0506/SECP1513-01) <br>
-📚 ULRS1032 - [Integrity and Anti-corruption](https://github.com/zn0506/ULRS1032) <br>
-📚 SEBB4173 - [Celullar and Molecular Biology for Bioinformatics](https://github.com/zn0506/SEBB4173-01) <br>
+* [cite_start]**Faculty of Computing Majlis Perwakilan Pelajar (MPP), UTM (2025/2026)** [cite: 22, 24, 27]
+  * [cite_start]Strategic Communications DEpartment Exco
+* [cite_start]**Chinese Orchestra UTM (2025/2026)** [cite: 26]
+  * [cite_start]Head of Logistics Department [cite: 25]
+* [cite_start]**Freshman UTM (2025/2026)** [cite: 28, 29]
+  * [cite_start]Head of Public Relations Department [cite: 23]
+* [cite_start]**Librarian Club (2020–2023)** [cite: 36]
+  * [cite_start]Vice President & Treasurer [cite: 37, 38]
 
 ### 🚀 Projects & Work
 
-📌 EWA Workspace 🔗 [GitHub Repo](https://github.com/zn0506/ewa-workspace.git)  
+📌 **VoxLab** – Currently working on an AI speech coach website to help users improve their speaking skills.
+📌 **Faculty Datathon** – Planning and organizing a Datathon event for the faculty to promote data science and problem-solving.
+[cite_start]📌 **EWA Workspace** – Contributed as a UI/UX Designer[cite: 47]. 🔗 [GitHub Repo](https://github.com/zn0506/ewa-workspace.git)
+
+### 💻 Skills & Tools
+
+* [cite_start]**Programming & Databases:** C++, basic SQL[cite: 31, 32], HTML
+* [cite_start]**UI/UX Design:** Figma, Rive, Prototyping [cite: 33, 34]
+* [cite_start]**Tools:** GitHub, Visual Studio Code [cite: 35]
+* [cite_start]**Strengths:** Strong teamwork and communication, leadership and responsibility handling, fast learner with initiative in self-development [cite: 40, 41, 42, 43, 44]
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+### 📫 Let's Connect!
+
+<p align="left"> 
+<a href="https://discord.com/users/ning556" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </a> 
+<a href="https://www.github.com/zn0506" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a> 
+<a href="http://www.instagram.com/zn_0506" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </a> 
+[cite_start]<a href="https://www.linkedin.com/in/zining0506" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a> [cite: 6]
+<a href="https://www.twitch.tv/zn_0506" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </a>
+</p>
 
 ### E-Portfolio
 
-Here is my [e-portfolio](https://zn0506.github.io/portfolio/)
+Check out more of my work at my [e-portfolio](https://zn0506.github.io/portfolio/).
